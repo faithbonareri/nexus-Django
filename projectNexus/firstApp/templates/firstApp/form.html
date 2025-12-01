@@ -1,0 +1,20 @@
+{% extends 'main.html' %}
+
+{% block content %}
+<div class="row justify-content-center mt-5">
+    <div class="col-md-6">
+        <div class="card shadow">
+            <div class="card-header bg-warning text-dark fw-bold">
+                Add New Shoe
+            </div>
+            <div class="card-body">
+                <form method="POST" action="">
+                    {% csrf_token %} 
+                    {{ form.as_p }} 
+                    <button type="submit" class="btn btn-dark w-100">Save Shoe</button>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
