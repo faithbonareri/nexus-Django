@@ -88,10 +88,10 @@ Contributions are welcome! Please see [CONTRIBUTING.md](CONTRIBUTING.md) for gui
 
 Thanks to everyone who has contributed to this project! 💚
 
-| Avatar | Username      | Contributions |
-|--------|--------------|--------------|
-| <img src="https://avatars.githubusercontent.com/u/7ever?v=4" width="32"> | [7ever](https://github.com/7ever)              | 11           |
-| <img src="https://avatars.githubusercontent.com/u/165031660?v=4" width="32"> | [faithbonareri](https://github.com/faithbonareri) | 7            |
+| Avatar | Username      |
+|--------|--------------|
+| <img src="https://avatars.githubusercontent.com/u/7ever?v=4" width="32"> | [7ever](https://github.com/7ever)              |
+| <img src="https://avatars.githubusercontent.com/u/165031660?v=4" width="32"> | [faithbonareri](https://github.com/faithbonareri) |
 
 ---
 
@@ -104,3 +104,4 @@ _No license specified. Please confirm with the repository owner before using in 
 ## 💬 Support
 
 If you have any questions or suggestions, please open an issue in this repository.
+
